@@ -53,7 +53,13 @@
 - Day3 : 문자열 복원
 - Day4 : [Puyo Puyo](https://www.acmicpc.net/problem/11559)
 
-## 9주차 - 자유주제
+## 9주차 - 문자열, 구현
+- Day1 : [IOIOI](https://www.acmicpc.net/problem/5525)
+- Day2 : [회문](https://www.acmicpc.net/problem/17609)
+- Day3 : [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)
+- Day4 : [IPv6](https://www.acmicpc.net/problem/3107)
+
+## 10주차 - 자유주제
 - Day1 : [문자열 폭발](https://www.acmicpc.net/problem/9935)
 - Day2 : [공유기 설치](https://www.acmicpc.net/problem/2110)
 
