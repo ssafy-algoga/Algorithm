@@ -50,6 +50,12 @@
 ## 8주차 - 문자열, 구현
 - Day1 : [생태학](https://www.acmicpc.net/problem/4358)
 - Day2 : [치즈](https://www.acmicpc.net/problem/2638)
+- Day3 : 문자열 복원
+- Day4 : [Puyo Puyo](https://www.acmicpc.net/problem/11559)
+
+## 9주차 - 자유주제
+- Day1 : [문자열 폭발](https://www.acmicpc.net/problem/9935)
+- Day2 : [공유기 설치](https://www.acmicpc.net/problem/2110)
 
 
 ---  
