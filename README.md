@@ -62,7 +62,8 @@
 ## 10주차 - 자유주제
 - Day1 : [문자열 폭발](https://www.acmicpc.net/problem/9935)
 - Day2 : [공유기 설치](https://www.acmicpc.net/problem/2110)
-
+- Day3 : [로봇 청소기](https://www.acmicpc.net/problem/4991)
+- Day4 : [엑셀](https://www.acmicpc.net/problem/2757)
 
 ---  
 
